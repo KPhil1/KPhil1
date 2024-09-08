@@ -1,10 +1,8 @@
 # 💫 About Me:
 - 👋 Hi, I’m @KPhil1
 - 👀 I'm currently working on Threat Modelling projects<br>
-- 💞️ I’m looking to collaborate on cybersecurity projects<br>
-- I'm looking for help with learning Python<br>
+- 💞️ I’m interested in anything cybersecurity-related<br>
 - 🌱 I’m currently learning CompTIA Security+<br>
-- I’m interested in anything cybersecurity-related<br>
 - ⚡ Fun fact: the answer to the meaning of life question is 42
 
 
