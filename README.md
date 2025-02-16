@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👋 Hi, I’m @KPhil1
 - 👀 I'm currently working on Threat Modelling projects<br>
-- 💞️ I’m interested in DevSecOps, cybersecurity, AWS, cloud security<br>
+- 💞️ I’m focused on DevSecOps, cybersecurity, AWS, cloud security<br>
 - 🌱 I’m currently learning CompTIA Security+<br>
 - ⚡ Fun fact: the answer to the meaning of life question is 42
 
